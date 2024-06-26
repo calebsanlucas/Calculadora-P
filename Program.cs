@@ -63,3 +63,8 @@ do
 
 
 } while (repetir);
+
+// case "4":
+//             int resultadoDivision = a + b;
+//             Console.WriteLine($"El resultado de la suma es {resultadoDivision}");
+//             break;
