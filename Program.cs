@@ -51,7 +51,7 @@ do
             break;
 
         case "5":
-            Console.WriteLine("Hasta pronto....");
+            Console.WriteLine("Hasta pronto...:)");
             repetir = false;
             break;
 
