@@ -57,7 +57,7 @@ do
 
 
         default:
-            Console.WriteLine("Ingrese una opción correcta");
+            Console.WriteLine("Ingrese una opción correcta ::");
             break;
     }
 
